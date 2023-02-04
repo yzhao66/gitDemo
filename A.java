@@ -9,11 +9,17 @@ import java.sql.SQLOutput;
   */  
 public class A {
 
+
+    @Test
+    public void tes3(){
+        System.out.println("12345123123");
+        System.out.println("aaaaaaa");
+
+    }
     @Test
     public void tes2(){
         System.out.println("12345123123");
         System.out.println("aaaaaaa");
-        System.out.println("123456");
 
     }
     @Test
