@@ -13,6 +13,7 @@ public class A {
     public void tes2(){
         System.out.println("12345123123");
         System.out.println("aaaaaaa");
+        System.out.println("123456");
 
     }
     @Test
