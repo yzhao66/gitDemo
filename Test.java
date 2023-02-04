@@ -6,6 +6,10 @@
 public class Test {
 
     @org.junit.Test
+    public void testB(){
+        System.out.println("BBBBBBB");
+    }
+    @org.junit.Test
     public void testA(){
         System.out.println("AAAAA");
     }
