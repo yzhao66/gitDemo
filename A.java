@@ -1,5 +1,7 @@
 import org.junit.Test;
 
+import java.sql.SQLOutput;
+
 /**
   *@Description      
   *@author          zoh66
@@ -10,6 +12,8 @@ public class A {
     @Test
     public void tes2(){
         System.out.println("12345123123");
+        System.out.println("aaaaaaa");
+
     }
     @Test
     public void tes1(){
