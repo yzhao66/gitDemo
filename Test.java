@@ -8,6 +8,6 @@ public class Test {
     @org.junit.Test
     public void testA(){
 
-        System.out.println("AAAAA");
+        System.out.println("BBBBB");
     }
 }
