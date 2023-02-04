@@ -9,7 +9,7 @@ public class A {
 
     @Test
     public void tes2(){
-        System.out.println("aaa");
+        System.out.println("12345123123");
     }
     @Test
     public void tes1(){
