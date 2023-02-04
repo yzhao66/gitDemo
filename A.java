@@ -6,6 +6,11 @@ import org.junit.Test;
   *@create          2023-02-04 12:52 PM
   */  
 public class A {
+
+    @Test
+    public void tes2(){
+        System.out.println("aaa");
+    }
     @Test
     public void tes1(){
         System.out.println("aaa");
